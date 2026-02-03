@@ -1,4 +1,4 @@
-Version 0.80 (beta)
+Version 0.81 (beta)
 
 This is a work in progress release of Rogue.  The text graphics
 game from the early 1980s.  I have done my best to port it over
