@@ -1,17 +1,12 @@
-Version 0.81 (beta)
+Version 0.82 (beta)
 
 This is a work in progress release of Rogue.  The text graphics
 game from the early 1980s.  I have done my best to port it over
 and continue to make refinements, but wanted to share to get
 feedback on the implementation and overall feel.
 
-The game is very long to play and does not currently
-support saving or high scores yet.  That's in the works.  What
-this really means is that you will probably not complete the game
-in its current form.  That's not to say you won't have fun.  I
-am just trying to let you know there's a very slim chance you will
-make it to the end of the game since I don't have save implemented
-yet.
+The game is very long and does not currently support a high
+scores yet.  That's in the works.
 
 So here we go...
 
@@ -114,4 +109,15 @@ This project would also not be possible without the archival efforts
 of David Silva (see https://github.com/Davidslv).  I was just
 ecstatic when I came across this archive and the fact that David
 Silva had preserved it in its original form.
+
+And last, but hardly not least.  This project would not be possible
+without the people of Github pulling together a myriad of projects
+that made getting such an endeavor to actually work.  A special
+shoutout to https://github.com/CE-Programming and the toolchain project
+there.  I would not be making this release without it.  Another special
+thanks to CEmu for such a wonderful platform to write code on and debug.
+And finally a shoutout to Kerm Martion and his posse on https://cemetech.org
+for going easy on an old man while he breathed life into an old project
+from his early computing days.
+
 
