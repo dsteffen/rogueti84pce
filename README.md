@@ -116,7 +116,7 @@ that made getting such an endeavor to actually work.  A special
 shoutout to https://github.com/CE-Programming and the toolchain project
 there.  I would not be making this release without it.  Another special
 thanks to CEmu for such a wonderful platform to write code on and debug.
-And finally a shoutout to Kerm Martion and his posse on https://cemetech.org
+And finally a shoutout to Kerm Martian and his posse on https://cemetech.org
 for going easy on an old man while he breathed life into an old project
 from his early computing days.
 
