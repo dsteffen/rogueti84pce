@@ -29,13 +29,10 @@ SUCH DAMAGE.
 ===========================================================================
 
 Portions of this software (state.c) are based on the work 
-of Nicholas J. Kisseberth and David Steffen. Used under license:
+of Nicholas J. Kisseberth. Used under license:
 
-Copyright (C) 1999, 2000, 2005 Nicholas J. Kisseberth
+Copyright (C) 1999, 2000, 2005, 2026 Nicholas J. Kisseberth
 All rights reserved.
-
-Copyright (C) 2026 for some minor bug fixes and updates for 24-bit
-integers by David Steffen.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
@@ -93,4 +90,3 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
 
-===========================================================================
